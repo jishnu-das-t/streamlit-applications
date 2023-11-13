@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    admin:
+      email: admin
+      name: admin
+      password: $2b$12$614ZuYx7/NlzA.QYQM2MxuKbILj4c4zUd2dwmKLzRklkTA6xJs8Vq
+cookie:
+  expiry_days: 90
+  key: 1@3$5^7*9)
+  name: dashboard_cookie
